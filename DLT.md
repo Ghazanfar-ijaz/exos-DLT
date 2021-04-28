@@ -13,3 +13,6 @@ Wei Dai est un ingénieur en informatique connu pour ses contributions à la cry
 
  Avec vos propres recherches et grâce aux compétences acquises en cours pouvez vous expliquer comment une Blockchain crée un lien entre ses différents Blocks?
 
+ Chaque block contient les informations(hash) du block précédent.
+
+Quelle structure de données informatique peut représenter le mieux cette chaine de Block: https://en.wikipedia.org/wiki/List_of_data_structures ?
